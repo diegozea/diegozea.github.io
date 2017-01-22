@@ -10,8 +10,8 @@ Postdoctoral researcher at Leloir Institute Foundation (Bioinformatics Unit).
   <dt></dt>
   <dd>
     <dl>
-      <dt>Title</dt><dd>Molecular evolution and conformational diversity in proteins</dd>
-      <dt>Field of Study</dt><dd>Bioinformatics</dd>
+      <dt>Thesis title</dt><dd>Molecular evolution and conformational diversity in proteins</dd>
+      <dt>Field of study</dt><dd>Bioinformatics</dd>
       <dt>Supervisor</dt><dd>PhD Gustavo Parisi</dd>
       <dt>Co-supervisor</dt><dd>MS, PhD Cristina Marino-Buslje</dd>
     </dl>
