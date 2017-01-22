@@ -6,7 +6,7 @@ Postdoctoral researcher at Leloir Institute Foundation (Bioinformatics Unit).
 
 <dl>
   <dt>April 2010 - March 2015</dt>
-  <dd><strong>Doctor of Philosophy (PhD), Mention in Basic and Applied Sciences.</strong> Universidad Nacional de Quilmes, Buenos Aires, Argentina.</dd>
+  <dd><strong>Doctor of Philosophy (PhD)</strong>, <em>Mention in Basic and Applied Sciences</em>. Universidad Nacional de Quilmes, Buenos Aires, Argentina.</dd>
   <dt></dt>
   <dd>
     <dl>
@@ -17,7 +17,7 @@ Postdoctoral researcher at Leloir Institute Foundation (Bioinformatics Unit).
     </dl>
   </dd>
   <dt>2003 - 2009</dt>
-  <dd><strong>Licentiate degree in Biotechnology, Orientation to Genetics and Molecular Biology.</strong> Universidad Nacional de Quilmes, Buenos Aires, Argentina</dd>
+  <dd><strong>Licentiate degree in Biotechnology</strong>, <em>Orientation to Genetics and Molecular Biology</em>. Universidad Nacional de Quilmes, Buenos Aires, Argentina</dd>
   <dt>2003 - 2006</dt>
-  <dd><strong>Bachelor of Technology, Laboratory Technician.</strong> Universidad Nacional de Quilmes, Buenos Aires, Argentina.</dd>
+  <dd><strong>Bachelor of Technology</strong>, <em>Laboratory Technician</em>. Universidad Nacional de Quilmes, Buenos Aires, Argentina.</dd>
 </dl>
