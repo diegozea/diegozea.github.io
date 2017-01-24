@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 
 title: [Diego Javier Zea]
 description: [Phd | Bioinformatician]
+
+gems:
+  - jekyll-octicons
