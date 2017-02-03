@@ -26,6 +26,8 @@ Postdoctoral researcher at Leloir Institute Foundation (Bioinformatics Unit).
 
 ### Research Articles
 
+- Monzon, A. M., Zea, D. J., Fornasari, M. S., Saldaño, T., Fernandez-Alberti, S., Tosatto, S. C., & Parisi, G. (2017). **Conformational diversity analysis reveals three functional mechanisms in proteins.** *PLOS Computational Biology*. **ACCEPTED**
+
 - Zea, D. J., Anfossi, D., Nielsen, M., & Marino-Buslje, C. (2016). **MIToS. jl: mutual information tools for protein sequence analysis in the Julia language.** *Bioinformatics*, btw646. [*abstract*](https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btw646/2608634/MIToS-jl-mutual-information-tools-for-protein)
 
 - Zea, D. J., Monzon, A. M., Gonzalez, C., Fornasari, M. S., Tosatto, S. C., & Parisi, G. (2016). **Disorder transitions and conformational diversity cooperatively modulate biological function in proteins.** *Protein Science*, 25(6), 1138-1146. [*full text*](http://onlinelibrary.wiley.com/doi/10.1002/pro.2931/full)
