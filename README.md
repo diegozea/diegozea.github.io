@@ -26,7 +26,13 @@ Postdoctoral researcher at Leloir Institute Foundation (Bioinformatics Unit).
 
 ### Research Articles
 
-- Monzon, A. M., Zea, D. J., Marino-Buslje, C., & Parisi, G. (2017). **Homology modeling in a dynamical world.** *Scientific Reports*. **UNDER REVIEW**  
+- Zea, D. J., Monzon, A. M., Parisi, G., & Marino-Buslje, C. (2017). **How is structural divergence related to evolutionary information?** *PLOS Computational Biology.* **UNDER REVIEW**
+
+- Marino-Buslje, C., Monzon, A. M., Zea, D. J., Fornasari, M. S., & Parisi, G. (2017). **On the dynamical incompleteness of the Protein Data Bank.** *Briefings in Bioinformatics* **IN PRESS**
+
+- Teppa, E., Zea, D. J., & Marino-Buslje, C. (2017). **Protein-protein interactions leave evolutionary footprints: High molecular coevolution at the core of interfaces.** *Protein Science* **UNDER REVIEW**  
+
+- Monzon, A. M., Zea, D. J., Marino-Buslje, C., & Parisi, G. (2017). **Homology modeling in a dynamical world.** *Protein Science*. **UNDER REVIEW** [*biorxiv*](http://www.biorxiv.org/content/early/2017/05/06/135004)
 
 - Monzon, A. M., Zea, D. J., Fornasari, M. S., Saldaño, T., Fernandez-Alberti, S., Tosatto, S. C., & Parisi, G. (2017). **Conformational diversity analysis reveals three functional mechanisms in proteins.** *PLOS Computational Biology*, 13, no. 2: e1005398. [*full text*](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005398)  
 
