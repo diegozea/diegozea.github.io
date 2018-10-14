@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/diegojavierzea) | [ResearchGate](https://www.researchgate.net/profile/Diego_Javier_Zea) | [Google Scholar](https://scholar.google.com.ar/citations?user=Z4sqaB0AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0002-4254-9320) | [GitHub](https://github.com/diegozea)
 
-Postdoctoral researcher at Leloir Institute Foundation (Bioinformatics Unit).
+A postdoctoral researcher modelling the evolution of alternative splicing events at the [Laboratory of Computational and Quantitative Biology (LCQB)](http://www.lcqb.upmc.fr/), Sorbonne Université.
 
 # Education
 
@@ -26,13 +26,13 @@ Postdoctoral researcher at Leloir Institute Foundation (Bioinformatics Unit).
 
 ### Research Articles
 
-- Zea, D. J., Monzon, A. M., Parisi, G., & Marino-Buslje, C. (2017). **How is structural divergence related to evolutionary information?** *PLOS Computational Biology.* **UNDER REVIEW**
+- Zea, D. J., Monzon, A. M., Parisi, G., & Marino-Buslje, C. (2018). **How is structural divergence related to evolutionary information?.** *Molecular phylogenetics and evolution*, 127, 859-866. [*abstract*](https://www.sciencedirect.com/science/article/pii/S1055790317306188)
 
-- Marino-Buslje, C., Monzon, A. M., Zea, D. J., Fornasari, M. S., & Parisi, G. (2017). **On the dynamical incompleteness of the Protein Data Bank.** *Briefings in Bioinformatics* **IN PRESS**
+- Marino-Buslje, C., Monzon, A. M., Zea, D. J., Fornasari, M. S., & Parisi, G. (2017). **On the dynamical incompleteness of the Protein Data Bank.** *Briefings in Bioinformatics* [*abstract*](https://doi.org/10.1093/bib/bbx084)
 
-- Teppa, E., Zea, D. J., & Marino-Buslje, C. (2017). **Protein-protein interactions leave evolutionary footprints: High molecular coevolution at the core of interfaces.** *Protein Science* **UNDER REVIEW**  
+- Teppa, E., Zea, D. J., & Marino‐Buslje, C. (2017). **Protein–protein interactions leave evolutionary footprints: High molecular coevolution at the core of interfaces.** *Protein Science*, 26(12), 2438-2444. [*abstract*](https://doi.org/10.1002/pro.3318)
 
-- Monzon, A. M., Zea, D. J., Marino-Buslje, C., & Parisi, G. (2017). **Homology modeling in a dynamical world.** *Protein Science*. **UNDER REVIEW** [*biorxiv*](http://www.biorxiv.org/content/early/2017/05/06/135004)
+- Monzon, A. M., Zea, D. J., Marino-Buslje, C., & Parisi, G. (2017). **Homology modeling in a dynamical world.** *Protein Science*, 26(11), 2195-2206. [*abstract*](https://doi.org/10.1002/pro.3274)
 
 - Monzon, A. M., Zea, D. J., Fornasari, M. S., Saldaño, T., Fernandez-Alberti, S., Tosatto, S. C., & Parisi, G. (2017). **Conformational diversity analysis reveals three functional mechanisms in proteins.** *PLOS Computational Biology*, 13, no. 2: e1005398. [*full text*](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005398)  
 
@@ -54,3 +54,4 @@ Postdoctoral researcher at Leloir Institute Foundation (Bioinformatics Unit).
 
 - Teppa, E., Zea, D. J., & Buslje, C. M.  (2012). **Identification of Coevolving Amino Acids using Mutual Information.** *iConcept Press*. [*full text*](https://www.researchgate.net/profile/Elin_Teppa/publication/261995698_Identification_of_Coevolving_Amino_Acids_using_Mutual_Information/links/00b4953631b3666180000000.pdf)
 
+- Monzon, A. M., Fornasari, M. S., Zea, D. J., & Parisi, G. (2019). **Exploring Protein Conformational Diversity.** *In Computational Methods in Protein Evolution* (pp. 353-365). Humana Press, New York, NY. [*abstract*](https://link.springer.com/protocol/10.1007/978-1-4939-8736-8_20)
