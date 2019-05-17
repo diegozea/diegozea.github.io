@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/diegojavierzea) | [ResearchGate](https://www.researchgate.net/profile/Diego_Javier_Zea) | [Google Scholar](https://scholar.google.com.ar/citations?user=Z4sqaB0AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0002-4254-9320) | [GitHub](https://github.com/diegozea)
+[Google Scholar](https://scholar.google.com.ar/citations?user=Z4sqaB0AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0002-4254-9320) | [GitHub](https://github.com/diegozea)
 
 A postdoctoral researcher modelling the evolution of alternative splicing events at the [Laboratory of Computational and Quantitative Biology (LCQB)](http://www.lcqb.upmc.fr/), Sorbonne Université.
 
@@ -25,6 +25,8 @@ A postdoctoral researcher modelling the evolution of alternative splicing events
 # Publications
 
 ### Research Articles
+
+- Ochoa, S., Martínez‐Pérez, E., Zea, D. J., Molina‐Vila, M. A., & Marino‐Buslje, C. (2019). **Comutation and exclusion analysis in human tumors: A tool for cancer biology studies and for rational selection of multitargeted therapeutic approaches.** *Human mutation, 40(4), 413-425.* [*abstract*](https://doi.org/10.1002/humu.23705)
 
 - Zea, D. J., Monzon, A. M., Parisi, G., & Marino-Buslje, C. (2018). **How is structural divergence related to evolutionary information?.** *Molecular phylogenetics and evolution*, 127, 859-866. [*abstract*](https://www.sciencedirect.com/science/article/pii/S1055790317306188)
 
