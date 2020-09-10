@@ -1,4 +1,4 @@
-[Google Scholar](https://scholar.google.com.ar/citations?user=Z4sqaB0AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0002-4254-9320) | [Scopus](http://www.scopus.com/inward/authorDetails.url?authorID=56534065600) | [GitHub](https://github.com/diegozea)
+[Google Scholar](https://scholar.google.com.ar/citations?user=Z4sqaB0AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0002-4254-9320) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56534065600) | [GitHub](https://github.com/diegozea)
 
 A postdoctoral researcher modelling the evolution of alternative splicing events at the [Laboratory of Computational and Quantitative Biology (LCQB)](http://www.lcqb.upmc.fr/), Sorbonne Université.
 
