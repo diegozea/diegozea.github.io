@@ -26,6 +26,12 @@ A postdoctoral researcher modelling the evolution of alternative splicing events
 
 ### Research Articles
 
+- Teppa, E., Zea, D. J., Oteri, F. & Carbone, A. (2020). **COVTree: Coevolution in OVerlapped sequences by Tree analysis server.** *Nucleic Acids Research, gkaa330*. [*full text*](https://doi.org/10.1093/nar/gkaa330)
+
+- Teppa, E., Nadalin, F., Combet, C., Zea, D. J., David, L. & Carbone, A. (2020). **Coevolution analysis of amino-acids reveals diversified drug resistance solutions in viral sequences: the case study of Hepatitis B Virus.** *Virus Evolution, 6(1), veaa006*. [*full text*](https://doi.org/10.1093/ve/veaa006)
+
+- Ait-hamlat, A., Zea, D. J., Labeeuw, A., Polit, L., Richard, H. & Laine, E. (2020). **Transcripts' evolutionary history and structural dynamics give mechanistic insights into the functional diversity of the JNK family.** *Journal of Molecular Biology* [*abstract*](https://doi.org/10.1016/j.jmb.2020.01.032)
+
 - Ochoa, S., Martínez‐Pérez, E., Zea, D. J., Molina‐Vila, M. A., & Marino‐Buslje, C. (2019). **Comutation and exclusion analysis in human tumors: A tool for cancer biology studies and for rational selection of multitargeted therapeutic approaches.** *Human mutation, 40(4), 413-425.* [*abstract*](https://doi.org/10.1002/humu.23705)
 
 - Zea, D. J., Monzon, A. M., Parisi, G., & Marino-Buslje, C. (2018). **How is structural divergence related to evolutionary information?.** *Molecular phylogenetics and evolution*, 127, 859-866. [*abstract*](https://www.sciencedirect.com/science/article/pii/S1055790317306188)
