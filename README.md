@@ -1,6 +1,6 @@
 [Google Scholar](https://scholar.google.com.ar/citations?user=Z4sqaB0AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0002-4254-9320) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56534065600) | [GitHub](https://github.com/diegozea)
 
-A postdoctoral researcher modelling the evolution of alternative splicing events at the [Laboratory of Computational and Quantitative Biology (LCQB)](http://www.lcqb.upmc.fr/), Sorbonne Université.
+**Associate Professor** at *Université Paris-Saclay*. Interested in protein structure, interactions and evolution.
 
 # Education
 
@@ -25,6 +25,12 @@ A postdoctoral researcher modelling the evolution of alternative splicing events
 # Publications
 
 ### Research Articles
+
+- Saldaño, T., Escobedo, N., Marchetti, J., Zea, D. J., Mac Donagh, J., Velez Rueda, A. J., Gonik, E., Garcia, A. M., Salas, M., Peters, T. & Demitroff, N. (2022). **Impact of protein conformational diversity on AlphaFold2 predictions.** Bioinformatics [*full text*](https://doi.org/10.1093/bioinformatics/btac202)
+
+- Zea, D. J., Laskina, S., Baudin, A., Richard, H., & Laine, E. (2021). **Assessing conservation of alternative splicing with evolutionary splicing graphs.** Genome Research, gr-274696. [*full text*](https://doi.org/10.1093/bioinformatics/btac105)
+
+- Palopoli, N., Marchetti, J., Monzon, A. M., Zea, D. J., Tosatto, S. C. E., Fornasari, M. S. & Parisi, G. (2020). **Intrinsically Disordered Protein Ensembles Shape Evolutionary Rates Revealing Conformational Patterns.** Journal of Molecular Biology  [*full text*](https://doi.org/10.1016/j.sbi.2015.02.005)
 
 - Teppa, E., Zea, D. J., Oteri, F. & Carbone, A. (2020). **COVTree: Coevolution in OVerlapped sequences by Tree analysis server.** *Nucleic Acids Research, gkaa330* [*full text*](https://doi.org/10.1093/nar/gkaa330)
 
