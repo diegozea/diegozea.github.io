@@ -1,6 +1,6 @@
 [Google Scholar](https://scholar.google.com.ar/citations?user=Z4sqaB0AAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0002-4254-9320) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56534065600) | [GitHub](https://github.com/diegozea)
 
-**Associate Professor** at *Université Paris-Saclay*. Interested in protein structure, interactions and evolution.
+**Associate Professor** at *Université Paris-Saclay*. I am interested in protein structure, interactions and evolution.
 
 # Education
 
