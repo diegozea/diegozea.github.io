@@ -26,7 +26,7 @@
 
 ### Book
 
-- [Interactive Visualization and Plotting with Julia](https://packtpublishing.github.io/Interactive-Visualization-and-Plotting-with-Julia/)
+- [📘 Interactive Visualization and Plotting with Julia](https://packtpublishing.github.io/Interactive-Visualization-and-Plotting-with-Julia/)
 
 ### Research Articles
 
