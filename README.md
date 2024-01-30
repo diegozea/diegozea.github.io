@@ -24,6 +24,10 @@
 
 # Publications
 
+### Book
+
+- [Interactive Visualization and Plotting with Julia](https://packtpublishing.github.io/Interactive-Visualization-and-Plotting-with-Julia/)
+
 ### Research Articles
 
 - Saldaño, T., Escobedo, N., Marchetti, J., Zea, D. J., Mac Donagh, J., Velez Rueda, A. J., Gonik, E., Garcia, A. M., Salas, M., Peters, T. & Demitroff, N. (2022). **Impact of protein conformational diversity on AlphaFold2 predictions.** Bioinformatics [*link*](https://doi.org/10.1093/bioinformatics/btac202)
