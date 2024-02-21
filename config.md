@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Diego Javier Zea"
 website_descr = "Diego Javier Zea's personal website"
-website_url   = "https://github.com/diegozea/diegozea.github.io"
+website_url   = "https://diegozea.github.io/"
 +++
 
 <!--
