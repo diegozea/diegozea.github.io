@@ -1,0 +1,4 @@
+Sitemap: https://diegozea.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
