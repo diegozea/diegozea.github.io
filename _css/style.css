@@ -2,6 +2,18 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
+/* ==================================================================
+    VARIABLES
+================================================================== */
+
+:root {
+  --navbar-height: 65px; /* Define the variable */
+}
+
+/* ==================================================================
+    BODY
+================================================================== */
+
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
@@ -226,3 +238,31 @@ h5 a:visited { color: #1c1c1c !important; }
 .copyright a:visited { text-decoration: none; }
 .copyright a:hover { text-decoration: none; }
 .copyright a:active { text-decoration: none; }
+
+/* ==================================================================
+    TOC
+================================================================== */
+
+/* Make sure the TOC is on the left side and has a specific width */
+.franklin-toc {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: var(--navbar-height); /* Adjust based on your header's height */
+  max-height: 90vh;
+  overflow-y: auto;
+  width: 200px; /* Set a fixed width for the TOC */
+  left: 0;
+  z-index: 100; /* Ensure it's above other content */
+}
+
+/* ==================================================================
+    NAV-BAR
+================================================================== */
+
+:root {
+  scroll-padding-top: var(--navbar-height);  /* Adjust based on your header's height */
+}
+
+html {
+  scroll-behavior: smooth;
+}
