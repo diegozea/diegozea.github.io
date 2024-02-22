@@ -21,6 +21,10 @@ body {
     font-family: -apple-system, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   }
 
+a {
+  text-decoration: none;
+}
+
 /* ==================================================================
     KATEX
 ================================================================== */
@@ -251,4 +255,33 @@ h6 {
 
 html {
   scroll-behavior: smooth;
+}
+
+/* ==================================================================
+    TITLES
+================================================================== */
+
+.franklin-content h1 a, 
+.franklin-content h2 a, 
+.franklin-content h3 a, 
+.franklin-content h4 a, 
+.franklin-content h5 a {
+  color: #1c1c1c !important;
+}
+
+.franklin-content h1 a:visited, 
+.franklin-content h2 a:visited, 
+.franklin-content h3 a:visited, 
+.franklin-content h4 a:visited, 
+.franklin-content h5 a:visited {
+  color: #1c1c1c !important;
+}
+
+.franklin-content h1 a:hover, 
+.franklin-content h2 a:hover, 
+.franklin-content h3 a:hover, 
+.franklin-content h4 a:hover, 
+.franklin-content h5 a:hover, 
+.franklin-content h6 a:hover {
+  text-decoration: none;
 }
