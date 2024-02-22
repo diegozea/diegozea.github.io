@@ -117,24 +117,10 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000;
   line-height: 1.2;
   margin-bottom: 1.5rem;
   margin-top: 2rem;
 }
-
-h1 a { color: #1c1c1c !important; }
-h2 a { color: #1c1c1c !important; }
-h3 a { color: #1c1c1c !important; }
-h4 a { color: #1c1c1c !important; }
-h5 a { color: #1c1c1c !important; }
-
-h1 a:visited { color: #1c1c1c !important; }
-h2 a:visited { color: #1c1c1c !important; }
-h3 a:visited { color: #1c1c1c !important; }
-h4 a:visited { color: #1c1c1c !important; }
-h5 a:visited { color: #1c1c1c !important; }
-
 
 /* ==================================================================
     TEXT GEOMETRY
