@@ -1,8 +1,8 @@
 \toc 
 
-# 📄 Curriculum Vitae
+# Curriculum Vitae
 
-## 🎓 Education
+## Education
 
 - **April 2010 -- March 2015**: **Doctor of Philosophy (PhD)**, *Mention in Basic and Applied Sciences*, Universidad Nacional de Quilmes, Buenos Aires, Argentina
   - **Title:** Molecular evolution and conformational diversity in proteins
@@ -10,9 +10,9 @@
 - **2003 -- 2009**: Licentiate degree in **Biotechnology**, Orientation to Genetics and Molecular Biology, Universidad Nacional de Quilmes, Buenos Aires, Argentina.
 - **2003 -- 2006**: Bachelor of Technology, Laboratory Technician, Universidad Nacional de Quilmes, Buenos Aires, Argentina.
 
-## 💼 Experience
+## Experience
 
-### 👨‍💻 Research
+### Research
 
 - **September 2022**: Associate professor *(Maître de conférences)*, Université Paris-Saclay, I2BC, Gif-sur-Yvette, France.
 - **15 April 2022 -- August 31, 2022**: Postdoctoral Fellow, UMR 7205 CNRS, ISYEB, Muséum national d'Histoire naturelle, Paris, France. I worked on modeling the evolution of protein structures under the supervision of Olivier Gascuel.
@@ -23,7 +23,7 @@
 - **July 2013 -- September 2013**: PhD student (short-term research stay), Università degli Studi di Padova, Padova, Italy. I studied protein disorder as another aspect of conformational diversity, supervised by Silvio Tosatto and Gustavo Parisi.
 - **April 2010 -- March 2015**: PhD student, CONICET, Universidad Nacional de Quilmes, Buenos Aires, Argentina. Researched the relationship between protein conformational diversity and molecular evolution, supervised by Gustavo Parisi and Cristina Marino-Buslje.
 
-### 👨‍🏫 Teaching
+### Teaching
 
 - **September 2022**: Associate professor *(Maître de conférences)*, Université Paris-Saclay, Gif-sur-Yvette, France.
 - **March 2020**: Temporary teacher *(Enseignant vacataire)*, "Advanced Programming", Station Biologique de Roscoff UFR937, Sorbonne Université, Paris, France.
@@ -35,16 +35,16 @@
 - **March 2009 -- December 2009**: Student Assistant, Department of Physics, Universidad Nacional de Quilmes, Buenos Aires, Argentina.
 - **March 2007 -- December 2007**: Student Assistant, Department of Mathematics, Universidad Nacional de Quilmes, Buenos Aires, Argentina.
 
-## 📝 Publications
+## Publications
 
-### 📘 Books
+### Books
 
 - Zea, D. J. (2022). **Interactive Visualization and Plotting with Julia: Create impressive data visualizations through Julia packages such as Plots, Makie, Gadfly, and more.** Packt Publishing Ltd. [*link*](https://packtpublishing.github.io/Interactive-Visualization-and-Plotting-with-Julia/)
 
 - Banchero, M., Bustamante, J. P., Lanzarotti, E., Revuelta, M. V., Teppa, E., Zea, D. J., & Stocchi, N. (2022). **Vida.exe: Desafíos y aventuras de la bioinformática.** Fondo de Cultura Económica Argentina. [*link*](https://books.google.fr/books?id=MSmbEAAAQBAJ)
 
 
-### 🔎 Research Articles
+### Research Articles
 
 - Bret, H., Gao, J., Zea, D. J., Andreani, J., & Guerois, R. (2024). **From interaction networks to interfaces, scanning intrinsically disordered regions using AlphaFold2.** Nature Communications, 15(1), 597. [*link*](https://doi.org/10.1038/s41467-023-44288-7)
 
@@ -88,11 +88,11 @@
 
 - Zea, D. J., Monzon, A. M., Fornasari, M. S., Marino-Buslje, C., & Parisi, G. (2013). **Protein conformational diversity correlates with evolutionary rate.** *Molecular biology and evolution*, 30(7), 1500-1503. [*link*](http://mbe.oxfordjournals.org/content/30/7/1500.full)
 
-### 📄 Other Articles
+### Other Articles
 
 - Parra, R. G., Defelipe, L. A., Guzovsky, A. B., Monzon, A. M., Cravero, F., Mancini, E., ... & Gonzalez, N. N. (2016). **Highlights of the 1st Argentine Symposium of Young Bioinformatics Researchers (1SAJIB) organized by the ISCB RSG-Argentina.** *PeerJ Preprints*, 4, e2494v1.  [*link*](https://peerj.com/preprints/2494/)
 
-### 📚 Book chapters
+### Book chapters
 
 - Zea, D. J., Teppa, E., & Marino-Buslje, C. (2023). **Easy Not Easy: Comparative Modeling with High-Sequence Identity Templates.** In Homology Modeling: Methods and Protocols (pp. 83–100). Springer US New York, NY. [*link*](https://link.springer.com/protocol/10.1007/978-1-0716-2974-1_5)
 

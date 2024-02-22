@@ -123,6 +123,7 @@ h3 a:visited { color: #1c1c1c !important; }
 h4 a:visited { color: #1c1c1c !important; }
 h5 a:visited { color: #1c1c1c !important; }
 
+
 /* ==================================================================
     TEXT GEOMETRY
 ================================================================== */
@@ -162,7 +163,6 @@ h5 a:visited { color: #1c1c1c !important; }
 .franklin-content a {
   text-decoration: none;
 }
-
 
 /* ==================================================================
     Footer
